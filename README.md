@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Homa Jafari Najd  
 
-<!--
-**Homa-Jafari-Najd/Homa-Jafari-Najd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Software Developer  
+🧠 C# | .NET | SQL Server  
+🖥️ WinForms Desktop Applications  
+🚀 Aspiring Backend Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+
+---
+
+## 📌 Featured Project
+🔹 Core Banking System (WinForms)  
+✔ Login (SQL-based)  
+✔ Account Management (CRUD)  
+✔ Pagination with Stored Procedures  
+
+👉 Repository:  
+https://github.com/Homa-Jafari-Najd/corebankingtest
+
+---
+
+## 📈 GitHub Stats
+![Homa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Homa-Jafari-Najd&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔗 Connect with me
+💼 LinkedIn:  
+https://www.linkedin.com/in/homa-jafari-najd
