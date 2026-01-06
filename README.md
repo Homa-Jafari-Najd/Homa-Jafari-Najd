@@ -21,9 +21,7 @@
 ✔ Pagination with Stored Procedures  
 
 👉 Repository:  
-https://github.com/Homa-Jafari-Najd/corebankingtest
-
----
+(https://github.com/Homa-Jafari-Najd/corebankigtest/tree/master/corebankigtest)
 
 ## 📈 GitHub Stats
 ![Homa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Homa-Jafari-Najd&show_icons=true&theme=tokyonight)](https://github.com/Homa-Jafari-Najd)
